@@ -1,3 +1,10 @@
+# 🍽️ Restaurant Rating Prediction
+
+## 🚀 Live Demo
+
+👉 [Open Restaurant Rating Predictor](https://restaurant-rating-ml.streamlit.app/)
+
+A Machine Learning application that predicts restaurant aggregate ratings using a Random Forest Regressor.
 # Restaurant Rating Prediction
 
 **Cognifyz Machine Learning Internship - Task 1**
